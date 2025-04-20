@@ -22,7 +22,7 @@ I used an [XGECU T76](https://www.aliexpress.com/item/3256808123535008.html) to 
 HOW TO MOD (using CH341A flasher):
 
  1. Follow the procedure in this [video](https://www.youtube.com/watch?v=fX-Fhq9R4uY) until the 2:00 minute mark.
- 2. Upload your backup .BIN file to the [calculator]()
+ 2. Upload your backup .BIN file to the [calculator](https://fartmccalister.github.io/UT211B-Calculator/)
  3. Make your desired changes. You can press the "Recommended" button to automatically select the same changes I made above.
  4. Download the modified .BIN file.
  5. In the CH341A Programmer software, select the drop down next to "Auto" and make sure all options are checked.
